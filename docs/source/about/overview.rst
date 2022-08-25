@@ -1,8 +1,9 @@
+########
 Overview
-========
+########
 
-PluginPlay is a software framework that was designed to make it as easy as
-possible to expose every aspect of a scientific simulation to the user. In
+PluginPlay is a software framework that has been designed to make it as easy
+as possible to expose every aspect of scientific software to the user. In
 particular PluginPlay ensures users can:
 
 * change the algorithm used to compute a result,
@@ -10,11 +11,11 @@ particular PluginPlay ensures users can:
 * construct non-conventional workflows (*e.g.*, use a non-conventional quantity
   as an input for another algorithm)
 
-Moreover all of this can be done dynamically as part of the user's input. At the
-same time PluginPlay also strives to allow developers to easily extend the
+Moreover all of this can be done dynamically as part of the user's input. At
+the same time PluginPlay also strives to allow developers to easily extend the
 software. In particular this includes:
 
-* introduceinga new algorithm,
+* introducing a new algorithm,
 * propagating the new algorithm throughout the code,
 * leveraging external libraries and algorithms,
 * porting algorithms to new platforms
